@@ -1,4 +1,8 @@
-title: null
+@import "{{ site.theme }}";
+
+header {
+  display: none;
+}
 ![](image001.jpg)
 ![](image002.jpg)
 ![](image003.jpg)
